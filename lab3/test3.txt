@@ -1,0 +1,11 @@
+#1
+input strings(only ASCII symbols)
+dada adda fas red saf
+dada adda 
+fas saf 
+#2
+aaa aaa sasas asssa jjoj ojjj gogo jjjo
+sasas asssa 
+jjoj ojjj jjjo 
+#3
+lal dal loh koh poh

@@ -1,0 +1,83 @@
+Example:
+
+
+SELECT OPTION:
+1) Reading data for processing from the input stream (from the keyboard).
+2) Reading data for processing from a text file.
+3) Random generation of data for processing.
+4) Sort by Bubble
+5) Sort by Shaker 
+6) Choose date
+7) Exit
+3
+
+SELECT OPTION:
+1) Reading data for processing from the input stream (from the keyboard).
+2) Reading data for processing from a text file.
+3) Random generation of data for processing.
+4) Sort by Bubble
+5) Sort by Shaker 
+6) Choose date
+7) Exit
+4
+Sorting time by Bubble 0.006s
+
+SELECT OPTION:
+1) Reading data for processing from the input stream (from the keyboard).
+2) Reading data for processing from a text file.
+3) Random generation of data for processing.
+4) Sort by Bubble
+5) Sort by Shaker 
+6) Choose date
+7) Exit
+3
+
+SELECT OPTION:
+1) Reading data for processing from the input stream (from the keyboard).
+2) Reading data for processing from a text file.
+3) Random generation of data for processing.
+4) Sort by Bubble
+5) Sort by Shaker 
+6) Choose date
+7) Exit
+5
+Sorting time by Shaker 0.005s
+
+SELECT OPTION:
+1) Reading data for processing from the input stream (from the keyboard).
+2) Reading data for processing from a text file.
+3) Random generation of data for processing.
+4) Sort by Bubble
+5) Sort by Shaker 
+6) Choose date
+7) Exit
+4
+The file is already sorted
+
+SELECT OPTION:
+1) Reading data for processing from the input stream (from the keyboard).
+2) Reading data for processing from a text file.
+3) Random generation of data for processing.
+4) Sort by Bubble
+5) Sort by Shaker 
+6) Choose date
+7) Exit
+6
+Input min mark: 2
+Input max mark: 7
+Bogomolov S23-680 2.900000
+Borodin B23-663 2.530000
+Firsov B13-824 6.440000
+Gromov B06-732 4.470000
+Semenov S29-259 6.580000
+
+SELECT OPTION:
+1) Reading data for processing from the input stream (from the keyboard).
+2) Reading data for processing from a text file.
+3) Random generation of data for processing.
+4) Sort by Bubble
+5) Sort by Shaker 
+6) Choose date
+7) Exit
+7
+ivan@compukter:~/b2051318_inf/lab4$ 

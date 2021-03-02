@@ -1,0 +1,19 @@
+Input your string
+mama	mila    ramu   
+Input direction(l/r): l
+Input shift: 5
+amam ilam amur
+Input your string
+roza   upala   na alpu   azora
+Input direction(l/r): r
+Input shift: 6
+zaro aupal na pual aazor
+Input your string
+qwerty  lol
+Input direction(l/r): 0
+Incorrect answer
+l
+Input shift: 0
+qwerty lol
+Input your string
+ivan@compukter:~/b2051318_inf/lab5$ 
